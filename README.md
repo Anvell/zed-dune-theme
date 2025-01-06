@@ -15,7 +15,18 @@ Harmonic and flow inducing color schemes which are gentle for your eyes.
 
 <br>
 
-<p><img src="assets/screenshots_promo.png"></p>
+### Gallery
+#### `01` Arrakis Night
+
+<p align="center">
+    <img src="assets/night.png" width=800>
+</p>
+
+#### `02` Arrakis Day
+
+<p align="center">
+    <img src="assets/day.png" width=800>
+</p>
 
 ### Credits
 
