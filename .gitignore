@@ -1,0 +1,7 @@
+.nvim.lua
+*template*
+.trash
+*test*
+.zed
+.DS_Store
+*copy
