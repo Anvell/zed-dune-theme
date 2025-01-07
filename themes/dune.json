@@ -270,7 +270,7 @@
         "border.selected": "#80808059",
         "border.transparent": "#80808059",
         "border.disabled": "#80808059",
-        "elevated_surface.background": "#3c3c3c",
+        "elevated_surface.background": "#33312f",
         "surface.background": "#2e2c29",
         "background": "#2b2927",
         "element.background": "#45413d",
