@@ -300,7 +300,7 @@
         "toolbar.background": "#2b2927",
         "tab_bar.background": "#272523",
         "tab.inactive_background": "#272523",
-        "tab.active_background": "#2e2c2a",
+        "tab.active_background": "#2b2927",
         "search.match_background": null,
         "panel.background": "#272523",
         "panel.focused_border": null,
