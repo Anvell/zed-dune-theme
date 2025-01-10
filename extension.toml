@@ -1,6 +1,6 @@
 id = "dune-theme"
 name = "Dune Theme"
-version = "1.0.0"
+version = "1.1.0"
 schema_version = 1
 authors = ["Denis Trotsenko <denis@keemobile.app>"]
 description = "Harmonic and flow inducing color schemes which are gentle for your eyes"
