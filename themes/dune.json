@@ -462,7 +462,7 @@
             "color": "#c6cbcc"
           },
           "function": {
-            "color": "#9bd2e0"
+            "color": "#92c8d5"
           },
           "keyword": {
             "color": "#d17b8d"
@@ -498,10 +498,10 @@
             "color": "#95d1be"
           },
           "string.special": {
-            "color": "#9bd2e0"
+            "color": "#92c8d5"
           },
           "string.special.symbol": {
-            "color": "#9bd2e0"
+            "color": "#92c8d5"
           },
           "tag": {
             "color": "#c6cbcc"
