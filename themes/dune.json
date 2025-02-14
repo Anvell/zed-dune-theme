@@ -190,8 +190,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#585858",
-            "font_style": "italic"
+            "color": "#585858"
           },
           "boolean": {
             "color": "#697024"
@@ -446,8 +445,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#b9b9b9",
-            "font_style": "italic"
+            "color": "#b9b9b9"
           },
           "comment": {
             "color": "#9E9E9E"
